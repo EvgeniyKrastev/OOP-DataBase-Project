@@ -6,5 +6,5 @@ In the app, we can insert information for people such as name, sex, age, and sal
 
 The tables in the H2 Database have connections: foreign key car brandsID to brands brandsID, and form sales carID to cars carID.
 
-Technologies used: H2 Database, Java, JFrame, Bootstrap, Entity Framework, jQuery, ASP.Net Core.
+Technologies used: H2 Database, Java, JFrame.
 
