@@ -8,3 +8,4 @@ The tables in the H2 Database have connections: foreign key car brandsID to bran
 
 Technologies used: H2 Database, Java, JFrame.
 
+![javacar](https://github.com/EvgeniyKrastev/OOP-DataBase-Project/assets/65820929/7150fe8f-f357-4805-803a-f257d5dec533)
